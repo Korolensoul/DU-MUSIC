@@ -1,0 +1,21 @@
+# Godot 4 缓存与导入产物
+.godot/
+/android/
+
+# 导出产物
+build/
+*.apk
+*.aab
+*.idsig
+*.pck
+*.zip
+
+# 导出签名与凭据（绝对不要提交）
+export_credentials.cfg
+*.keystore
+*.jks
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini
