@@ -1,10 +1,12 @@
 # du乐器
-|嘟嘟嘟嘟
-|纯ai制作，音频拿melodyne调的
-|感谢b站@肘击王结成友奈 提供的采样包
-|只有apk
-|下载：https://github.com/Korolensoul/DU-MUSIC/releases/tag/26.11.9
-|剩下的话全是ai写的
+
+| 嘟嘟嘟嘟
+| 纯ai制作，音频拿melodyne调的
+| 感谢b站@肘击王结成友奈 提供的采样包
+| 只有apk
+| 下载：https://github.com/Korolensoul/DU-MUSIC/releases/tag/26.11.9
+| 剩下的话全是ai写的
+
 ---
 一个给安卓手机用的 **24 键音效键盘**：横屏两排铺满整块屏幕，手指按哪个格子就响哪个采样，支持多点触控、滑键和「按得靠下更响」的力度。
 
